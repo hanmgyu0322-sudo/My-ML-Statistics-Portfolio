@@ -11,8 +11,7 @@
 - **성과:** Weighted F1-Score **0.92** 달성
 - **설명:** [01_Flower_Classification_ResNet50 폴더 바로가기](./01_Flower_Classification)
 
-### 2. [이미지 분류] ViT vs ResNet 꽃 30종 분류 학습 비교
-- **핵심 기술:** PyTorch, ResNet-50, ViT-tiny
-- **장비:** NVIDIA GeForce RTX 3070 Ti
-- **성과:** Weighted F1-Score **0.90** 달성
-- **설명:** [01_Flower_Classification_ResNet50 폴더 바로가기](./01_Flower_Classification)
+### 2. [모델 비교] ResNet-50 vs Vision Transformer (ViT)
+- **주제:** CNN과 Transformer 구조의 성능 및 효율성 대조군 실험
+- **특이사항:** RTX 3070 Ti 활용, 3분할(Train/Val/Test) 통계적 검증 적용
+- **바로가기:** [02_ViT_vs_ResNet_Comparison](./02_ViT_vs_ResNet_Comparison)
