@@ -4,6 +4,15 @@
 
 안녕하세요! 통계학을 전공하며 학습한 머신러닝 실습 결과물들을 모아둔 저장소입니다.
 
+---
+
+## 📚 논문 리뷰 및 연구 아카이브 (Paper Archive)
+학습한 모델들의 이론적 배경을 이해하기 위해 관련 논문들을 읽고 분석하고 있습니다. 자세한 리뷰 내용은 노션(Notion) 페이지에서 확인하실 수 있습니다.
+
+[![Notion](https://img.shields.io/badge/Notion-논문_리뷰_노션_바로가기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2529f789048583cd88a8014fc22a6d6c)
+
+> 💡 위 노션 링크를 클릭하시면 각 논문에 대한 통계적 해석과 핵심 요약본을 보실 수 있습니다.
+
 ## 📂 실습 목록
 ### 1. [이미지 분류] ResNet-50 기반 꽃 30종 분류
 - **핵심 기술:** PyTorch, ResNet-50, Transfer Learning
