@@ -24,3 +24,8 @@
 - **주제:** CNN과 Transformer 구조의 성능 및 효율성 대조군 실험
 - **특이사항:** RTX 3070 Ti 활용, 3분할(Train/Val/Test) 통계적 검증 적용
 - **바로가기:** [02_ViT_vs_ResNet_Comparison](./02_ViT_vs_ResNet_Comparison)
+
+### 3. [최신 CNN] ConvNeXt V2 꽃 분류 및 특징 붕괴 분석
+- **주제:** CNN과 Transformer의 장점을 결합한 현대적 아키텍처 실습
+- **특이사항:** FCMAE 마스킹 실험 및 GRN 레이어의 특징 다양성 정량 분석 포함
+- **바로가기:** [03_ConvNeXtV2_Flower_Classification](./03_ConvNeXtV2_Flower_Classification)
