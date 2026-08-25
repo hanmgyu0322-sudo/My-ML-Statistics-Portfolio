@@ -1,0 +1,75 @@
+{
+  "united states": [
+    "usa",
+    "us",
+    "u.s.",
+    "u.s.a.",
+    "america",
+    "united states of america"
+  ],
+  "united kingdom": [
+    "uk",
+    "u.k.",
+    "great britain",
+    "britain",
+    "england",
+    "scotland",
+    "wales",
+    "northern ireland"
+  ],
+  "united arab emirates": [
+    "uae"
+  ],
+  "democratic republic of the congo": [
+    "dr congo",
+    "drc",
+    "congo-kinshasa",
+    "congo kinshasa"
+  ],
+  "republic of the congo": [
+    "congo-brazzaville",
+    "congo brazzaville",
+    "congo"
+  ],
+  "ivory coast": [
+    "cote d'ivoire",
+    "côte d'ivoire"
+  ],
+  "czechia": [
+    "czech republic"
+  ],
+  "netherlands": [
+    "holland",
+    "the netherlands"
+  ],
+  "myanmar": [
+    "burma"
+  ],
+  "south korea": [
+    "republic of korea",
+    "korea"
+  ],
+  "north korea": [
+    "dprk"
+  ],
+  "russia": [
+    "russian federation"
+  ],
+  "eswatini": [
+    "swaziland"
+  ],
+  "cabo verde": [
+    "cape verde"
+  ],
+  "timor leste": [
+    "east timor",
+    "timor-leste"
+  ],
+  "vatican": [
+    "vatican city",
+    "holy see"
+  ],
+  "north macedonia": [
+    "macedonia"
+  ]
+}
